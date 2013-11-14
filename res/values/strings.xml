@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HeliSalvesti</string>
+    <string name="media_dialog">Meedia vaatamine</string>
+    <string name="dir_info">Kausta Info</string>
+    <string name="manager_act">Telefoni sätted</string>
+
+</resources>
